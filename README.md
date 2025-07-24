@@ -1,6 +1,6 @@
 # Replicating the Kinora: 3D modelling as heuristics in doing digital history
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-33pRxE2dtUHP/main?filepath=replicating_kinora.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-33pRxE2dtUHP/main?filepath=kinora.ipynb)
 
 ## Abstract
 
